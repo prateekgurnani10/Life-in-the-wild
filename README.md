@@ -1,2 +1,2 @@
-# prateekgurnani10.github.io
-A simple website using HTML and CSS
+# Life-in-the-wild
+A simple and basic website using HTML and CSS.
